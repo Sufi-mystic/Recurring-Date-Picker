@@ -1,0 +1,36 @@
+ .recurring-date-picker {
+  padding: 20px;
+  background: whitesmoke;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.icon{
+    color: orangered;
+    margin-right: 10px;
+}
+
+.day-of-week-selector .btn {
+  margin: 2px;
+  flex: 1;
+  min-width: 80px;
+}
+
+.preview-calendar{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.preview-calendar .card {
+  max-height: 500px;
+  overflow-y: auto;
+  border: none;
+}
+
+.preview-calendar li{
+  border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);;
+  padding: 8px 15px;
+  background-color: whitesmoke;
+}
