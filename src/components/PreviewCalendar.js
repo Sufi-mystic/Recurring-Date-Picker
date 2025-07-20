@@ -187,7 +187,7 @@ const PreviewCalendar = ({ recurrence }) => {
 
   return (
     <div className="preview-calendar mt-0 bg-warning shadow">
-      <h5>Preview</h5>
+      <h5><i className='fa fa-level-up me-2'></i>Preview</h5>
       <div className="card">
         <div className="card-body">
           <p className="text-muted">Next occurrences:</p>
