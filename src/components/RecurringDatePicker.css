@@ -31,6 +31,6 @@
 .preview-calendar li{
   border: none;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);;
-  padding: 8px 15px;
+  padding: 8px 8px;
   background-color: whitesmoke;
 }
