@@ -1,0 +1,38 @@
+[
+  {
+    "id": "aman-burnrow",
+    "name": "Dr. Aman Burnrow",
+    "specialization": "Cardiologist",
+    "hospital": "The Wiscon Hospital in California, US",
+    "patients": "5000+",
+    "experience": "10+",
+    "rating": "4.8",
+    "about": "Dr. Aman Burnrow is the top most immunologist specialist in Christ Hospital at London. She achieved several awards for her wonderful contribution in medical field. She is available for private consultation.",
+    "degree": "MBBS, Sydney college and university",
+    "service": "Medicare",
+    "availability": [
+      "08:00 AM - 10:00 AM",
+      "01:00 PM - 04:00 PM",
+      "06:00 PM - 08:00 PM"
+    ],
+    "image": "/images/DoctorImage.avif"
+  },
+  {
+    "id": "aman-kumar",
+    "name": "Dr. Aman Kumar",
+    "specialization": "Dermatologist",
+    "hospital": "The Wiscon Hospital in California, US",
+    "patients": "5000+",
+    "experience": "10+",
+    "rating": "4.8",
+    "about": "Dr. Aman Kumar is the top most immunologist specialist in Christ Hospital at London. She achieved several awards for her wonderful contribution in medical field. She is available for private consultation.",
+    "degree": "MBBS, California college and university",
+    "service": "Medicare",
+    "availability": [
+      "08:00 AM - 10:00 AM",
+      "01:00 PM - 04:00 PM",
+      "06:00 PM - 08:00 PM"
+    ],
+    "image": "/images/Doctor2.jpg"
+  }
+]
